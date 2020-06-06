@@ -8,9 +8,10 @@ aprender a usa o Vim e os comandos básicos do Git
 ##comandos do VIM
 - esc -  modo de comando
 - i - modo de inserção (edição de arquivo)
-- esc + : w - salvar o arquivo
-- esc + 
-: wl - salvar e fechar o VIM
+- esc + :w - salvar o arquivo
+- esc + :q - sair
+- 
+: - salvar e fechar o VIM
 - esc + : wql - salvar e forçar o fechamento do VIM
 
 ##comando Git
@@ -20,4 +21,7 @@ aprender a usa o Vim e os comandos básicos do Git
 - git add . - adiciona todos os arquivos ao histórico
 - git commit -m "comentario" - commita (salva) os arquivos adicionados
 - git push origin master - envia do repositorio local para o remoto
+
+
+alterando II
 
