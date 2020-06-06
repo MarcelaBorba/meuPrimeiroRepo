@@ -2,10 +2,10 @@
 
 primeiro repositório do Programa00
 
-##objetivos
+## objetivos
 aprender a usa o Vim e os comandos básicos do Git
 
-##comandos do VIM
+## comandos do VIM
 - esc -  modo de comando
 - i - modo de inserção (edição de arquivo)
 - esc + :w - salvar o arquivo
@@ -14,7 +14,7 @@ aprender a usa o Vim e os comandos básicos do Git
 : - salvar e fechar o VIM
 - esc + : wql - salvar e forçar o fechamento do VIM
 
-##comando Git
+## comando Git
 - git init - inicia um repositorio
 - git clone - 
 - git add <arquivo> - adiciona o arquivo ao historico 
